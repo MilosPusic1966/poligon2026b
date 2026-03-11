@@ -10,6 +10,7 @@ namespace poligon2026b
     {
         static void Main(string[] args)
         {
+            // Milos Pusic
             Console.WriteLine("Pozdrav za 3-10");
         }
     }
